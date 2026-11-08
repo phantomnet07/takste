@@ -1,4 +1,3 @@
-# takste
 # Instagram Direct Message - Private 2-Person Chat
 
 A private, minimalist 2-person messaging website styled 1:1 after **Instagram Direct Messages** with real-time synchronization, voice notes, photo sharing, profile pictures with permanent server sync, user custom stickers, message replies, long-press actions, hover actions, swipe gestures, and server-side chat history.
@@ -119,4 +118,3 @@ If you want to keep all data directly on your own computer or home mini-PC forev
 4. Cloudflare gives you a free, secure `https://<random-id>.trycloudflare.com` address instantly.
 5. Both user1 and user2 can open this link on phones and computers anywhere in the world.
    - All pictures, voice notes, stickers, and credentials are saved directly on your local hard drive in `./data/` forever!
-   
